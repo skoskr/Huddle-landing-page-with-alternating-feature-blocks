@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github]()
-- Live Site URL: [Netlify]()
+- Solution URL: [Github](https://github.com/skoskr/Huddle-landing-page-with-alternating-feature-blocks)
+- Live Site URL: [Netlify](https://astonishing-pothos-581127.netlify.app)
 
 ## My process
 
